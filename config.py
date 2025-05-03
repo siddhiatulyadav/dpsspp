@@ -120,60 +120,38 @@ class Messages:
 """
 
     HELP_TEXT = """
-📚 **Available Commands**  
+🆘 DPFiles Bot Help
 
-👤 **User Commands:**  
-• `/start` - Start the bot  
-• `/help` - Show this menu  
-• `/about` - Bot details  
-• `/short [url]` - Shorten a link (e.g., `/short example.com`)  
-/repo 
+Here’s what you can do:
 
-👑 **Admin Commands:**  
-• `/upload` - Upload a file (reply to a file)  
-• `/stats` - View bot statistics  
-• `/broadcast` - Send a message to all users  
-• `/auto_del` - Set auto-delete timer  
+🎮 Browse and access GTA SA modpacks
+💬 Get custom dialogs and scripts
+📱 Download Android modding tools
+📦 Receive ready-to-use mod files with one click
+📂 Explore organized categories for easier navigation
 
+💡 Files are carefully curated — no uploads needed from your side. Just pick, tap, and mod!
 
-🗑 **Auto-Delete System:**  
-• Files auto-delete after a set time.  
-• Modify timer using `/auto_del`.  
-
-🔗 **Batch System:**  
-• `/batch` - Group multiple files into one link.  
-• Forward files & reply with `/batch`.  
-
-
-🛠 **Open Source:**  
-🔗 [GitHub](https://github.com/utkarshdubey2008/alphashare)  
-
-⚠️ **Need Help?** Contact [@adarsh2626](https://t.me/adarsh2626)  
+💬 Need support? Contact @dpmods
 """
 
     ABOUT_TEXT = """
-ℹ️ **About {bot_name}**
+ℹ️ *About DPFiles*
 
-**Version:** `{version}`
-**Developer:** @adarsh2626
-**Language:** Python
-**Framework:** Pyrogram
+*DPFiles* is your trusted source for high-quality mods, scripts, and tools — built for GTA SA lovers and Android modders.
 
-📢 **Updates:** @Thealphabotz
-🛠 **Support:** @adarsh2626
+📦 Get access to:  
+• GTA SA Modpacks  
+• Android Modding Tools  
+• Custom Dialogs & Scripts  
+• Exclusive Game Tweaks
 
-**Features:**
-• Secure File Sharing
-• Force Subscribe
-• Admin Controls
-• Real-time Stats
-• Multiple File Types
-• Enhanced Security
-• Automatic File Type Detection
+🌐 [Website](https://dpmods.com)  
+▶️ [YouTube Channel](https://youtube.com/@dpmods)  
+📌 [Pinterest](https://in.pinterest.com/dpmods)  
+👥 [Telegram Group](https://t.me/dp_mods)
 
-use /repo to know more info
-
-Made with ❤️ by @adarsh2626
+DPFiles is part of the DPMods YT — crafted for modding enthusiasts, by modding enthusiasts.
 """
 
     FILE_TEXT = """
@@ -192,9 +170,7 @@ Made with ❤️ by @adarsh2626
 
     FORCE_SUB_TEXT = """
 ⚠️ **Access Restricted!**
-
 Please join our channel to use this bot:
-Bot By @Thealphabotz
 
 Click button below, then try again!
 """
