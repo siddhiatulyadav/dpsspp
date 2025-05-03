@@ -107,20 +107,16 @@ class Messages:
     START_TEXT = """
 🎉 **Welcome to {bot_name}!** 🎉
 
-Hello {user_mention}! I'm your secure file sharing assistant.
+📁 What You Get:
+• GTA SA & Android modding files
+• Tools, scripts, and useful assets
+• Secure, unique download links
 
-🔐 **Key Features:**
-• Secure File Sharing
-• Unique Download Links
-• Multiple File Types Support
-• Real-time Tracking
-• Force Subscribe
+⚙️ Get exclusive mods, tools, and files from DPMods.
+🔔 Stay updated, stay modded!
 
-📢 Join @Thealphabotz for updates!
-👨‍💻 Contact @adarsh2626 for support
-A Open Source Repo :- github.com/utkarshdubey2008/alphashare
-
-Use /help to see available commands!
+🧠 Use /help to explore available commands.
+💬 For support, contact @dp_mods
 """
 
     HELP_TEXT = """
