@@ -115,7 +115,6 @@ class Messages:
 ⚙️ Get exclusive mods, tools, and files from DPMods.
 🔔 Stay updated, stay modded!
 
-🧠 Use /help to explore available commands.
 💬 For support, contact @dp_mods
 """
 
