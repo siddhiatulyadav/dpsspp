@@ -58,9 +58,9 @@ async def start_command(client: Client, message: Message):
             force_sub_text = "**⚠️ You must join our channel(s) to use this bot!**\n\n"
             
             if config.FORCE_SUB_CHANNEL != 0:
-                force_sub_text += "• Join DPMods YT\n"
+                force_sub_text += "• Join DPMods YT Channel\n"
             if config.FORCE_SUB_CHANNEL_2 != 0:
-                force_sub_text += "• Join Anime Download\n"
+                force_sub_text += "• Join DPMods Discussion\n"
                 
             force_sub_text += "\nJoin the channel(s) and try again."
             
