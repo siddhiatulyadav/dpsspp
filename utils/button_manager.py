@@ -67,7 +67,7 @@ class ButtonManager:
         if config.FORCE_SUB_CHANNEL != 0 and config.CHANNEL_LINK:
             buttons.append([
                 InlineKeyboardButton(
-                    "Join DPMods YT",
+                    "Join DPMods YT Channel",
                     url=config.CHANNEL_LINK
                 )
             ])
@@ -75,7 +75,7 @@ class ButtonManager:
         if config.FORCE_SUB_CHANNEL_2 != 0 and config.CHANNEL_LINK_2:
             buttons.append([
                 InlineKeyboardButton(
-                    "Join Anime Download",
+                    "Join DPMods YT Discussion",
                     url=config.CHANNEL_LINK_2
                 )
             ])
@@ -93,8 +93,8 @@ class ButtonManager:
         if config.CHANNEL_LINK:
             if config.CHANNEL_LINK_2:
                 buttons.append([
-                    InlineKeyboardButton("DPMods YT", url=config.CHANNEL_LINK),
-                    InlineKeyboardButton("Anime Download", url=config.CHANNEL_LINK_2)
+                    InlineKeyboardButton("Join DPMods YT Channel", url=config.CHANNEL_LINK),
+                    InlineKeyboardButton("Join DPMods YT Discussion", url=config.CHANNEL_LINK_2)
                 ])
             else:
                 buttons.append([
@@ -118,8 +118,8 @@ class ButtonManager:
         if config.CHANNEL_LINK:
             if config.CHANNEL_LINK_2:
                 buttons.append([
-                    InlineKeyboardButton("DPMods YT", url=config.CHANNEL_LINK),
-                    InlineKeyboardButton("Anime Download", url=config.CHANNEL_LINK_2)
+                    InlineKeyboardButton("Join DPMods YT Channel", url=config.CHANNEL_LINK),
+                    InlineKeyboardButton("Join DPMods YT Discussion", url=config.CHANNEL_LINK_2)
                 ])
             else:
                 buttons.append([
@@ -139,8 +139,8 @@ class ButtonManager:
         if config.CHANNEL_LINK:
             if config.CHANNEL_LINK_2:
                 buttons.append([
-                    InlineKeyboardButton("DPMods YT", url=config.CHANNEL_LINK),
-                    InlineKeyboardButton("Anime Download", url=config.CHANNEL_LINK_2)
+                    InlineKeyboardButton("Join DPMods YT Channel", url=config.CHANNEL_LINK),
+                    InlineKeyboardButton("Join DPMods YT Discussion", url=config.CHANNEL_LINK_2)
                 ])
             else:
                 buttons.append([
@@ -160,8 +160,8 @@ class ButtonManager:
         if config.CHANNEL_LINK:
             if config.CHANNEL_LINK_2:
                 buttons.append([
-                    InlineKeyboardButton("DPMods YT", url=config.CHANNEL_LINK),
-                    InlineKeyboardButton("Anime Download", url=config.CHANNEL_LINK_2)
+                    InlineKeyboardButton("Join DPMods YT Channel", url=config.CHANNEL_LINK),
+                    InlineKeyboardButton("Join DPMods YT Discussion", url=config.CHANNEL_LINK_2)
                 ])
             else:
                 buttons.append([
@@ -181,8 +181,8 @@ class ButtonManager:
         if config.CHANNEL_LINK:
             if config.CHANNEL_LINK_2:
                 buttons.append([
-                    InlineKeyboardButton("DPMods YT", url=config.CHANNEL_LINK),
-                    InlineKeyboardButton("Anime Download", url=config.CHANNEL_LINK_2)
+                    InlineKeyboardButton("Join DPMods YT Channel", url=config.CHANNEL_LINK),
+                    InlineKeyboardButton("Join DPMods YT Discussion", url=config.CHANNEL_LINK_2)
                 ])
             else:
                 buttons.append([
